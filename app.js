@@ -62,7 +62,7 @@ var inquirer = require('inquirer');
 
 // 	// var name = answers.first_name;
 
-// 	// console.log('Your name is ' + name);
+// 	// console.log('Your name is ' + name + '!');
 // });
 
 function promptUser(type) {
